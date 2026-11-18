@@ -1,2 +1,2 @@
-file 3 line 1
-line 2 written
+echo file 3 line 1
+echo line 2 written
